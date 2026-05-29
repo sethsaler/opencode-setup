@@ -7,10 +7,10 @@ This setup provides a one-click installation for Ghostty terminal emulator and O
 Run this command in your terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/opencode-setup/main/install.sh | bash
+curl -fsSL https://tinyurl.com/2ddnp2cr | bash
 ```
 
-*(Note: You'll need to replace `YOUR_USERNAME` with your actual GitHub username and upload this script to a repository, or host it elsewhere.)*
+This URL shortener hides the GitHub username and provides a clean, memorable installation command.
 
 ## What Gets Installed
 
